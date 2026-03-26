@@ -1,6 +1,6 @@
 ###                      FRONTEND
 
-# Deploymnt URL: 
+# Deploymnt URL: https://tutedude-project-8.netlify.app/
 
 # How to run:
     cd frontend
