@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://tutedude-project-8.onrender.com';
+const API_URL = 'https://tutedude-project-8.onrender.com/todos';
 
 export const getTodos = ()=> axios.get(API_URL);
 
